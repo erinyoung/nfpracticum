@@ -10,6 +10,11 @@
 
 ## Pipeline tools
 
+- [fastp](https://github.com/OpenGene/fastp)
+
+  > Chen S. Ultrafast one-pass FASTQ data preprocessing, quality control, and deduplication using fastp. Imeta. 2023 May 8;2(2 :e107. doi: 10.1002/imt2.107. PMID: 38868435; PMCID: PMC10989850.
+
+
 - [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 
   > Andrews, S. (2010). FastQC: A Quality Control Tool for High Throughput Sequence Data [Online].
